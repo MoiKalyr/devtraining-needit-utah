@@ -108,17 +108,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-08-20 07:32:09</sys_created_on>
         <sys_id>4131639cc3a3a210a69db6fdd4013189</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Active NeedIt Requests by Type.</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_report_4131639cc3a3a210a69db6fdd4013189</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-20 07:48:24</sys_updated_on>
+        <sys_updated_on>2025-08-21 04:07:44</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <title>Active NeedIt Requests by Type.</title>
-        <title_horizontal_alignment>left</title_horizontal_alignment>
+        <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
         <trend_field/>
